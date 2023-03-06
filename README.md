@@ -1,5 +1,5 @@
 # Rockbuster_SQL_Analysis
-![image](https://user-images.githubusercontent.com/33376927/222997218-591f50f4-642c-4687-ac17-bd7450ba534b.png)
+![2](https://user-images.githubusercontent.com/33376927/223197748-e2ea0476-dcb8-4dfa-837e-e4ca379f7e8d.jpg)
 
 Using SQL commands in PostgreSQL to analyze the data of a fictitious Movie Rental Company, Rockbuster.
 ## Current Understanding

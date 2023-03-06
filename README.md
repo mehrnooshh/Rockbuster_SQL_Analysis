@@ -18,7 +18,7 @@ Here is some of the questions:
 - Do sales figures vary between geographic regions?
 
 ## Data
-Rockbuster’s film inventory, customers, and payments data is provided by CareerFoundry and is available [here]()
+Rockbuster’s film inventory, customers, and payments data is provided by CareerFoundry and is available [here](https://github.com/mehrnooshh/Rockbuster_SQL_Analysis/tree/main/02%20Data)
 ## Tools
 For this project the following tools have been used:
 1. ***PostgreSQL***
@@ -28,4 +28,4 @@ For this project the following tools have been used:
 The interactive storyboard is available at: [Rockbuster, Movie Rental Company, Storyboard | Tableau Public](https://public.tableau.com/app/profile/mehrnoosh5165/viz/RockbusterMovieRentalCompanyStoryboard/Rockbuster?publish=yes)
 
 ## Presentation
-Please find the PowerPoint slides [here]()
+Please find the PowerPoint slides [here](https://github.com/mehrnooshh/Rockbuster_SQL_Analysis/tree/main/04%20Analysis-Sent%20to%20Client)
